@@ -1,0 +1,11 @@
+Student_ID,Gender,Age,Study_Hours_per_Week,Attendance_Percentage,Previous_Grade,Internet_Usage_Hours,Final_Score,Result,Participation_Score,Assignment_Completion
+1,Male,23,14,67,80,4,32.73,Fail,8,90
+2,Female,24,34,98,51,8,46.08,Fail,7,85
+3,Male,18,29,77,88,7,49.32,Fail,6,80
+4,Male,18,24,96,54,9,44.09,Fail,9,95
+5,Male,18,9,60,70,5,31.05,Fail,5,70
+6,Female,22,5,94,88,4,28.91,Fail,8,88
+7,Male,21,34,82,68,8,51.37,Pass,7,92
+8,Male,22,7,66,65,9,24.57,Fail,6,75
+9,Male,21,18,55,57,7,35.59,Fail,9,89
+10,Female,22,34,53,71,7,49.27,Fail,8,94
